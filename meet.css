@@ -136,6 +136,8 @@ footer {
   align-items: center;
 }
 
+/********** Background Image and Overlay **********/
+
 footer {
   background-image: url(assets/desktop/image-footer.jpg);
   background-size: cover;
